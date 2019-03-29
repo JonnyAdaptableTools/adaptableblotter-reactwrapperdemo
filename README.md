@@ -1,2 +1,0 @@
-# adaptableblotter-reactwrapperdemo
-to do
